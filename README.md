@@ -2,6 +2,8 @@
 
 An event organizing app for companies to manage social events as well as car pooling events. Can be used in cases of team building activities, etc.
 
+Only completed front-end
+
 <li/>
 <img src="https://i.ibb.co/njL9Lj0/Untitled.png" alt="login page"/>
 <img src="https://i.ibb.co/qdGhhJg/2.png"/>
